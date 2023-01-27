@@ -1,0 +1,27 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+.navbar .nav-link-lg {
+  font-size: 18px !important;
+}
+
+.navbar .navbar-brand {
+  font-size: 24px;
+}
+.navbar-brand img {
+  margin-right: 1rem;
+}
+
+.small-image {
+  width: 75%;
+  height: 75%;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: pointer;
+}
