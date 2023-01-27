@@ -1,0 +1,23 @@
+{
+  "name": "personal-page-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skubiak447/MyPageV1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skubiak447/MyPageV1/issues"
+  },
+  "homepage": "https://skubiak447.github.io/MyPageV1",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
